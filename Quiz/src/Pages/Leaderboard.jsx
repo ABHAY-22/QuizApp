@@ -10,7 +10,7 @@ const Leaderboard = () => {
 
     const fetchLeaderboardData = async () => {
         try {
-            const response = await fetch('http://localhost:8080/results');
+            const response = await fetch('https://fragile-gray-colt.cyclic.app/leaderboard');
             const data = await response.json();
             setLeaderboardData(data);
         } catch (error) {
