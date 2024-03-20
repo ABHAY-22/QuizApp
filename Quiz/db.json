@@ -13,18 +13,8 @@
                 "Molybdenum"
             ]
         },
-        {
-            "type": "multiple",
-            "difficulty": "medium",
-            "category": "Celebrities",
-            "question": "Which American celebrity died in 1977 playing golf in La Moraleja, Madrid?",
-            "correct_answer": "Bing Crosby",
-            "incorrect_answers": [
-                "Elvis Presley",
-                "Charlie Chaplin",
-                "Groucho Marx"
-            ]
-        },
+        
+       
         {
             "type": "multiple",
             "difficulty": "hard",
@@ -49,30 +39,8 @@
                 "Palmball"
             ]
         },
-        {
-            "type": "multiple",
-            "difficulty": "hard",
-            "category": "Entertainment: Music",
-            "question": "Which of these songs is not by Tatsuro Yamashita?",
-            "correct_answer": "Lucky Lady Feel So Good ",
-            "incorrect_answers": [
-                "Merry-Go Round",
-                "Let&#039;s Dance Baby",
-                "Love Talkin&#039;"
-            ]
-        },
-        {
-            "type": "multiple",
-            "difficulty": "medium",
-            "category": "Entertainment: Cartoon &amp; Animations",
-            "question": "Which singer provided the voice of Metroid&#039;s Mother Brain in the animated series &quot;Captain N: The Game Master&quot;?",
-            "correct_answer": "Levi Stubbs",
-            "incorrect_answers": [
-                "Freddie Mercury",
-                "Janet Jackson",
-                "Joan Jett"
-            ]
-        },
+      
+       
         {
             "type": "multiple",
             "difficulty": "medium",
@@ -97,79 +65,7 @@
                 "King Dedede"
             ]
         },
-        {
-            "type": "multiple",
-            "difficulty": "easy",
-            "category": "Entertainment: Musicals &amp; Theatres",
-            "question": "Who wrote the play &#039;Angels in America&#039;?",
-            "correct_answer": "Tony Kusher",
-            "incorrect_answers": [
-                "Tom Stoppard",
-                "Matthew Lopez",
-                "Anthony Neilson"
-            ]
-        },
-        {
-            "type": "multiple",
-            "difficulty": "medium",
-            "category": "Entertainment: Music",
-            "question": "Which of these artists do NOT originate from France?",
-            "correct_answer": "The Chemical Brothers",
-            "incorrect_answers": [
-                "Air",
-                "Justice",
-                "Daft Punk"
-            ]
-        },
-
-        {
-            "type": "multiple",
-            "difficulty": "hard",
-            "category": "Geography",
-            "question": "What is the land connecting North America and South America?",
-            "correct_answer": "Isthmus of Panama",
-            "incorrect_answers": [
-                "Isthmus of Suez",
-                "Urals",
-                "Australasia"
-            ]
-        },
-        {
-            "type": "multiple",
-            "difficulty": "medium",
-            "category": "History",
-            "question": "Which of the following Presidents of the United States was assassinated?",
-            "correct_answer": "William McKinley",
-            "incorrect_answers": [
-                "Lyndon Johnson",
-                "Chester Arthur",
-                "Franklin Roosevelt"
-            ]
-        },
-        {
-            "type": "multiple",
-            "difficulty": "medium",
-            "category": "Entertainment: Video Games",
-            "question": "The mobile game &quot;Jetpack Joyride&quot; was released in what year? ",
-            "correct_answer": "2011",
-            "incorrect_answers": [
-                "2012",
-                "2009",
-                "2014"
-            ]
-        },
-        {
-            "type": "multiple",
-            "difficulty": "easy",
-            "category": "Entertainment: Video Games",
-            "question": "In what year was the first &quot;Mass Effect&quot; game released?",
-            "correct_answer": "2007",
-            "incorrect_answers": [
-                "2008",
-                "2009",
-                "2010"
-            ]
-        },
+      
         {
             "type": "boolean",
             "difficulty": "medium",
@@ -180,16 +76,7 @@
                 "False"
             ]
         },
-        {
-            "type": "boolean",
-            "difficulty": "easy",
-            "category": "Entertainment: Music",
-            "question": "American rapper Dr. Dre actually has a Ph.D. doctorate.",
-            "correct_answer": "False",
-            "incorrect_answers": [
-                "True"
-            ]
-        },
+    
         {
             "type": "boolean",
             "difficulty": "hard",
@@ -234,7 +121,7 @@
                 "Oxygen"
             ]
         },
-
+  
        
             {
                 "type": "boolean",
@@ -270,16 +157,7 @@
                     "Fly"
                 ]
             },
-            {
-                "type": "boolean",
-                "difficulty": "medium",
-                "category": "Entertainment: Japanese Anime &amp; Manga",
-                "question": "In &quot;To Love-Ru: Darkness&quot;, Yami reveals her real name is Eve.",
-                "correct_answer": "True",
-                "incorrect_answers": [
-                    "False"
-                ]
-            },
+           
             {
                 "type": "multiple",
                 "difficulty": "easy",
@@ -292,16 +170,7 @@
                     "Submarines"
                 ]
             },
-            {
-                "type": "boolean",
-                "difficulty": "medium",
-                "category": "Science: Computers",
-                "question": "The very first recorded computer &quot;bug&quot; was a moth found inside a Harvard Mark II computer.",
-                "correct_answer": "True",
-                "incorrect_answers": [
-                    "False"
-                ]
-            },
+          
             {
                 "type": "multiple",
                 "difficulty": "medium",
@@ -325,33 +194,30 @@
                     "Port Vila",
                     "Port-au-Prince"
                 ]
-            },
-            {
-                "type": "multiple",
-                "difficulty": "easy",
-                "category": "Entertainment: Film",
-                "question": "Which movie includes a giant bunny-like spirit who has magic powers including growing trees?",
-                "correct_answer": "My Neighbor Totoro",
-                "incorrect_answers": [
-                    "Hop",
-                    "Rise of the Guardians",
-                    "Alice in Wonderland"
-                ]
-            },
-            {
-                "type": "multiple",
-                "difficulty": "medium",
-                "category": "History",
-                "question": "The fraudelent doctor John R. Brinkley acummulated great fame and wealth in the early 1900s offering what service?",
-                "correct_answer": "Goat testicles transplant",
-                "incorrect_answers": [
-                    "Pig blood transfusion",
-                    "Cow liver transplant",
-                    "Turkey breast implants"
-                ]
+            }
+           
+        ],
+  
+        "leaderboard": [
+          {
+            "name": "Abhay",
+            "score": 100
+          },
+          {
+            "name": "Abhinav",
+            "score": 90
+          },
+          {
+            "name": "Akshay",
+            "score": 80
+          },
+          {
+              "name": "Rohan",
+              "score": 80
             }
         ]
-
-
+      }
+  
+  
     
-}
+  
