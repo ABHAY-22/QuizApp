@@ -1,0 +1,357 @@
+{
+
+    "results": [
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Science &amp; Nature",
+            "question": "Which chemical element was originally known as Alabamine?",
+            "correct_answer": "Astatine",
+            "incorrect_answers": [
+                "Selenium",
+                "Antimony",
+                "Molybdenum"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Celebrities",
+            "question": "Which American celebrity died in 1977 playing golf in La Moraleja, Madrid?",
+            "correct_answer": "Bing Crosby",
+            "incorrect_answers": [
+                "Elvis Presley",
+                "Charlie Chaplin",
+                "Groucho Marx"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Animals",
+            "question": "Which of these is a colony of polyps and not a jellyfish?",
+            "correct_answer": "Portuguese Man-of-War",
+            "incorrect_answers": [
+                "Sea Wasp",
+                "Irukandji",
+                "Sea Nettle"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Sports",
+            "question": "What is the most common type of pitch thrown by pitchers in baseball?",
+            "correct_answer": "Fastball",
+            "incorrect_answers": [
+                "Slowball",
+                "Screwball",
+                "Palmball"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Music",
+            "question": "Which of these songs is not by Tatsuro Yamashita?",
+            "correct_answer": "Lucky Lady Feel So Good ",
+            "incorrect_answers": [
+                "Merry-Go Round",
+                "Let&#039;s Dance Baby",
+                "Love Talkin&#039;"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Cartoon &amp; Animations",
+            "question": "Which singer provided the voice of Metroid&#039;s Mother Brain in the animated series &quot;Captain N: The Game Master&quot;?",
+            "correct_answer": "Levi Stubbs",
+            "incorrect_answers": [
+                "Freddie Mercury",
+                "Janet Jackson",
+                "Joan Jett"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Art",
+            "question": "Which artist&#039;s style was to use small different colored dots to create a picture?",
+            "correct_answer": "Georges Seurat",
+            "incorrect_answers": [
+                "Paul C&eacute;zanne",
+                "Vincent Van Gogh",
+                "Henri Rousseau"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "Which of these characters was NOT planned to be playable for Super Smash Bros. 64?",
+            "correct_answer": "Peach",
+            "incorrect_answers": [
+                "Bowser",
+                "Mewtwo",
+                "King Dedede"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Musicals &amp; Theatres",
+            "question": "Who wrote the play &#039;Angels in America&#039;?",
+            "correct_answer": "Tony Kusher",
+            "incorrect_answers": [
+                "Tom Stoppard",
+                "Matthew Lopez",
+                "Anthony Neilson"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Music",
+            "question": "Which of these artists do NOT originate from France?",
+            "correct_answer": "The Chemical Brothers",
+            "incorrect_answers": [
+                "Air",
+                "Justice",
+                "Daft Punk"
+            ]
+        },
+
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Geography",
+            "question": "What is the land connecting North America and South America?",
+            "correct_answer": "Isthmus of Panama",
+            "incorrect_answers": [
+                "Isthmus of Suez",
+                "Urals",
+                "Australasia"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "History",
+            "question": "Which of the following Presidents of the United States was assassinated?",
+            "correct_answer": "William McKinley",
+            "incorrect_answers": [
+                "Lyndon Johnson",
+                "Chester Arthur",
+                "Franklin Roosevelt"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "The mobile game &quot;Jetpack Joyride&quot; was released in what year? ",
+            "correct_answer": "2011",
+            "incorrect_answers": [
+                "2012",
+                "2009",
+                "2014"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "In what year was the first &quot;Mass Effect&quot; game released?",
+            "correct_answer": "2007",
+            "incorrect_answers": [
+                "2008",
+                "2009",
+                "2010"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Science: Computers",
+            "question": "AMD created the first consumer 64-bit processor.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Entertainment: Music",
+            "question": "American rapper Dr. Dre actually has a Ph.D. doctorate.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "hard",
+            "category": "History",
+            "question": "The man that shot Alexander Hamilton was named Aaron Burr.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Geography",
+            "question": "What is Canada&#039;s largest island?",
+            "correct_answer": "Baffin Island",
+            "incorrect_answers": [
+                "Prince Edward Island",
+                "Vancouver Island",
+                "Newfoundland"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "Tony Hawk&#039;s extreme sports videogames revolve around performing professional BMX tricks.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Science &amp; Nature",
+            "question": "Dry ice is the solid form of what substance?",
+            "correct_answer": "Carbon dioxide",
+            "incorrect_answers": [
+                "Nitrogen",
+                "Ammonia",
+                "Oxygen"
+            ]
+        },
+
+       
+            {
+                "type": "boolean",
+                "difficulty": "medium",
+                "category": "Science &amp; Nature",
+                "question": "&quot;Tachycardia&quot; or &quot;Tachyarrhythmia&quot; refers to a resting heart-rate near or over 100 BPM.",
+                "correct_answer": "True",
+                "incorrect_answers": [
+                    "False"
+                ]
+            },
+            {
+                "type": "multiple",
+                "difficulty": "medium",
+                "category": "Entertainment: Japanese Anime &amp; Manga",
+                "question": "In &quot;To Love-Ru: Darkness&quot;, which of the girls attempt making a harem for Rito Yuuki?",
+                "correct_answer": "Momo Deviluke",
+                "incorrect_answers": [
+                    "Yami (Golden Darkness)",
+                    "Haruna Sairenji",
+                    "Mea Kurosaki"
+                ]
+            },
+            {
+                "type": "multiple",
+                "difficulty": "hard",
+                "category": "Animals",
+                "question": "Which species is a &quot;mountain chicken&quot;?",
+                "correct_answer": "Frog",
+                "incorrect_answers": [
+                    "Chicken",
+                    "Horse",
+                    "Fly"
+                ]
+            },
+            {
+                "type": "boolean",
+                "difficulty": "medium",
+                "category": "Entertainment: Japanese Anime &amp; Manga",
+                "question": "In &quot;To Love-Ru: Darkness&quot;, Yami reveals her real name is Eve.",
+                "correct_answer": "True",
+                "incorrect_answers": [
+                    "False"
+                ]
+            },
+            {
+                "type": "multiple",
+                "difficulty": "easy",
+                "category": "Entertainment: Video Games",
+                "question": "Rocket League is a game which features..",
+                "correct_answer": "Cars",
+                "incorrect_answers": [
+                    "Helicopters",
+                    "Planes",
+                    "Submarines"
+                ]
+            },
+            {
+                "type": "boolean",
+                "difficulty": "medium",
+                "category": "Science: Computers",
+                "question": "The very first recorded computer &quot;bug&quot; was a moth found inside a Harvard Mark II computer.",
+                "correct_answer": "True",
+                "incorrect_answers": [
+                    "False"
+                ]
+            },
+            {
+                "type": "multiple",
+                "difficulty": "medium",
+                "category": "Entertainment: Television",
+                "question": "Alan Reed is known for providing the voice of which character?",
+                "correct_answer": "Fred Flintstone",
+                "incorrect_answers": [
+                    "Bugs Bunny",
+                    "Fangface",
+                    "G.I. Joe"
+                ]
+            },
+            {
+                "type": "multiple",
+                "difficulty": "hard",
+                "category": "Geography",
+                "question": "What is the capital of Mauritius?",
+                "correct_answer": "Port Louis",
+                "incorrect_answers": [
+                    "Port Moresby",
+                    "Port Vila",
+                    "Port-au-Prince"
+                ]
+            },
+            {
+                "type": "multiple",
+                "difficulty": "easy",
+                "category": "Entertainment: Film",
+                "question": "Which movie includes a giant bunny-like spirit who has magic powers including growing trees?",
+                "correct_answer": "My Neighbor Totoro",
+                "incorrect_answers": [
+                    "Hop",
+                    "Rise of the Guardians",
+                    "Alice in Wonderland"
+                ]
+            },
+            {
+                "type": "multiple",
+                "difficulty": "medium",
+                "category": "History",
+                "question": "The fraudelent doctor John R. Brinkley acummulated great fame and wealth in the early 1900s offering what service?",
+                "correct_answer": "Goat testicles transplant",
+                "incorrect_answers": [
+                    "Pig blood transfusion",
+                    "Cow liver transplant",
+                    "Turkey breast implants"
+                ]
+            }
+        ]
+
+
+    
+}
